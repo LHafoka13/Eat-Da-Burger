@@ -1,0 +1,31 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "This is a restaurant app that lets End Users input the names of burgers they want to eat. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LHafoka13/Eat-Da-Burger.git"
+  },
+  "keywords": [
+    "burger",
+    "restaurant",
+    "node",
+    "handlebars",
+    "express"
+  ],
+  "author": "Lily'okalani Hafoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LHafoka13/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/LHafoka13/Eat-Da-Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
